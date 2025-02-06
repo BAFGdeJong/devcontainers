@@ -1,0 +1,3 @@
+[submodule "pythonuv"]
+	path = pythonuv
+	url = https://github.com/BAFGdeJong/devcontainers-pythonuv.git
